@@ -21,7 +21,7 @@
 
 
 
-### Approach 2. Use Pre-existing OCR Extraction APIs - TODO
+### Approach 2. Use Pre-existing OCR Extraction Interface - TODO
 
 #### GPT4?
 
